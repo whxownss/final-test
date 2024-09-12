@@ -1,7 +1,1 @@
-user1: 안녕
-
-
-user2: 어 그래
-
-
-task8
+user1
